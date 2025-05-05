@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/e7d399c0-adc9-403b-bb7c-4a88b22a6d39)
 
+ Factory Design Pattern ![Screenshot 2025-05-05 163458](https://github.com/user-attachments/assets/cd1cb1d8-94c8-4a8a-a2f0-af9fc2ce42fb)
 
 
 
@@ -70,5 +71,4 @@ public class FactoryPatternDemo {
 }
 
 
-![Screenshot 2025-05-05 163458](https://github.com/user-attachments/assets/7843d86b-5803-4cec-b049-7fdbebee3693)
 
