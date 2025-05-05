@@ -69,6 +69,6 @@ public class FactoryPatternDemo {
     }
 }
 
-  
-![Screenshot 2025-05-05 163458](https://github.com/user-attachments/assets/5a58d178-ff26-43e1-83a1-b1dd9c36a764)
+
+![Screenshot 2025-05-05 163458](https://github.com/user-attachments/assets/7843d86b-5803-4cec-b049-7fdbebee3693)
 
